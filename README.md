@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alijakhatun&label=Profile%20views&color=0e75b6&style=flat" alt="alijakhatun" /> </p>
+<p align="left"><img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/45a00959-6653-49c9-8880-e9dca41b7b61" /> </p>
 
 
 <h1 align="center">Hi , I'm Alija Khatun</h1>
