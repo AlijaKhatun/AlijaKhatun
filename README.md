@@ -1,4 +1,4 @@
-<p align="left"><img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/45a00959-6653-49c9-8880-e9dca41b7b61" /> </p>
+<p align="left"><img width="1536" height="546" alt="Image" src="https://github.com/user-attachments/assets/60b5113b-f7ef-4815-80e7-f96e3d57de74" /></p>
 <h1 align="center">Hi , I'm Alija Khatun</h1>
 <h3 align="center">Web Developer | Learning Mern Stack Development</h3>
 
